@@ -6,12 +6,13 @@ My name is **shifan**
 - 🧚‍♂️ Anime lover.
 - 🌱 Like to research technology
 Blog: https://www.cnblogs.com/stulzq
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifan&theme=cobalt&layout=compact)
 -->
 - 💕 Open source enthusiast.
 - ❤ My favorite language: C#
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shifan&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifan&theme=cobalt&layout=compact)
+
 
 
 
